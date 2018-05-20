@@ -1,0 +1,23 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.author-title {
+    background-color:cadetblue;
+    text-align: center;
+    padding: 15px;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+.verse {
+    text-align: center;
+}
+
